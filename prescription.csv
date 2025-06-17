@@ -1,0 +1,291 @@
+Disease,Drug
+Gastroenteritis,Oral Rehydration Salts (ORS)
+Gastroenteritis,Antibiotics (for bacterial causes)
+Malaria,artemether / lumefantrine
+Malaria,mefloquine
+Malaria,doxycycline
+Malaria,chloroquine
+Malaria,hydroxychloroquine
+Malaria,atovaquone / proguanil
+Malaria,clindamycin
+Malaria,primaquine
+Malaria,atovaquone
+Psoriasis,clobetasol
+Psoriasis,methotrexate
+Psoriasis,triamcinolone
+Psoriasis,fluocinonide
+Psoriasis,triamcinolone
+Psoriasis,calcipotriene
+Psoriasis,mometasone
+Psoriasis,desonide
+Psoriasis,prednisone
+Psoriasis,acitretin
+Psoriasis,cyclosporine
+Psoriasis,hydrocortisone
+Psoriasis,ustekinumab
+Psoriasis,adalimumab
+Psoriasis,betamethasone / calcipotriene
+GERD,omeprazole
+GERD,pantoprazole
+GERD,ranitidine
+GERD,famotidine
+GERD,lansoprazole
+GERD,esomeprazole
+GERD,rabeprazole
+GERD,sucralfate
+GERD,dexlansoprazole
+GERD,omeprazole / sodium bicarbonate
+Hepatitis A,immune globulin intramuscular
+hepatitis A,hepatitis a adult vaccine
+hepatitis A,hepatitis a adult vaccine / hepatitis b adult vaccine
+Hepatitis A,hepatitis a pediatric vaccine
+Hepatitis B,entecavir
+Hepatitis B,tenofovir
+Hepatitis B,lamivudine
+Hepatitis B,adefovir
+Hepatitis B,tenofovir alafenamide
+Hepatitis B,interferon alfa-2b
+Hepatitis B,peginterferon alfa-2a
+Hepatitis B,peginterferon alfa-2b
+Vertigo,meclizine
+Vertigo,promethazine
+Diabetes,Metformin (for Type 2)
+Diabetes,glipizide (for Type 2)
+Diabetes,glimepiride
+"Diabetes, Type 1",insulin glargine
+"Diabetes, Type 1",insulin lispro
+"Diabetes, Type 1",insulin aspart
+"Diabetes, Type 1",insulin regular
+"Diabetes, Type 1",insulin glulisine
+"Diabetes, Type 3c",metformin
+Impetigo,mupirocin
+Impetigo,cefadroxil
+Impetigo,cefuroxime
+Impetigo,retapamulin
+Impetigo,sulconazole
+Impetigo,ozenoxacin
+Impetigo,ammoniated mercury
+High Blood Pressure (Hypertension),lisinopril
+High Blood Pressure (Hypertension),amlodipine
+High Blood Pressure (Hypertension),losartan
+High Blood Pressure (Hypertension),hydrochlorothiazide
+High Blood Pressure (Hypertension),metoprolol
+High Blood Pressure (Hypertension),atenolol
+High Blood Pressure (Hypertension),carvedilol
+High Blood Pressure (Hypertension),furosemide
+High Blood Pressure (Hypertension),hydrochlorothiazide / lisinopril
+High Blood Pressure (Hypertension),clonidine
+High Blood Pressure (Hypertension),enalapril
+High Blood Pressure (Hypertension),valsartan
+Hyperthyroidism,methimazole
+Hyperthyroidism,propylthiouracil
+Hyperthyroidism,potassium iodide
+Hyperthyroidism,iodine / potassium iodide
+Hyperthyroidism,sodium iodide-i-131
+Urinary Tract Infection,ciprofloxacin
+Urinary Tract Infection,nitrofurantoin
+Urinary Tract Infection,sulfamethoxazole / trimethoprim
+Urinary Tract Infection,amoxicillin
+Urinary Tract Infection,doxycycline
+Urinary Tract Infection,levofloxacin
+Urinary Tract Infection,ceftriaxone
+Urinary Tract Infection,amoxicillin / clavulanate
+Urinary Tract Infection,cefuroxime
+Urinary Tract Infection,trimethoprim
+Urinary Tract Infection,methenamine
+Urinary Tract Infection,ampicillin
+Varicose Veins,polidocanol
+Varicose Veins,sodium tetradecyl sulfate
+AIDS ,dronabinol
+AIDS,megestrol
+AIDS  ,somatropin
+AIDS  ,dronabinol
+AIDS  ,megestrol
+AIDS  ,somatropin
+AIDS  ,dronabinol
+AIDS  ,megestrol
+AIDS  ,somatropin
+Typhoid,ciprofloxacin
+Typhoid,ceftriaxone
+Typhoid,azithromycin
+Typhoid ,ampicillin
+Typhoid,"typhoid vaccine, live"
+Typhoid,"typhoid vaccine, inactivated"
+Fungal infection,fluconazole
+Fungal infection,fluconazole
+Fungal infection,amphotericin b
+Fungal infection,fluconazole
+Fungal infection,itraconazole
+Fungal infection,amphotericin b
+Fungal infection,micafungin
+Fungal Infection,gentian violet
+Hepatitis C,ribavirin
+Hepatitis C,ledipasvir / sofosbuvir
+Hepatitis C,sofosbuvir
+Hepatitis C,sofosbuvir / velpatasvir
+Hepatitis C,peginterferon alfa-2a
+Hepatitis C,dasabuvir / ombitasvir / paritaprevir / ritonavir
+Hepatitis C,elbasvir / grazoprevir
+Hepatitis C,interferon alfa-2b
+Hepatitis C,peginterferon alfa-2b
+Hepatitis C,glecaprevir / pibrentasvir
+Hepatitis C,sofosbuvir / velpatasvir / voxilaprevir
+Hepatitis C,ribavirin
+Hepatitis C,ledipasvir / sofosbuvir
+Hepatitis C,sofosbuvir
+Hepatitis C,sofosbuvir / velpatasvir
+Hepatitis C,peginterferon alfa-2a
+Hepatitis C,dasabuvir / ombitasvir / paritaprevir / ritonavir
+Hepatitis C,elbasvir / grazoprevir
+Hepatitis C,interferon alfa-2b
+Hepatitis C,peginterferon alfa-2b
+Hepatitis C,glecaprevir / pibrentasvir
+Hepatitis C,sofosbuvir / velpatasvir / voxilaprevir
+Migraine,sumatriptan
+Migraine,rizatriptan
+Migraine,gabapentin
+Migraine,aspirin / butalbital / caffeine
+Migraine,cyclobenzaprine
+Migraine,diclofenac
+Migraine,naratriptan
+Migraine,almotriptan
+Migraine,zolmitriptan
+Migraine,eletriptan
+Migraine,sumatriptan
+Migraine,rizatriptan
+Migraine,gabapentin
+Migraine,aspirin / butalbital / caffeine
+Migraine,cyclobenzaprine
+Migraine,diclofenac
+Migraine,naratriptan
+Migraine,almotriptan
+Migraine,zolmitriptan
+Migraine,eletriptan
+Dengue Fever,acetaminophen
+Dengue Fever,acetaminophen
+Dengue Fever,acetaminophen
+Pneumonia,levofloxacin
+Pneumonia,clarithromycin
+Pneumonia,ceftriaxone
+Pneumonia,azithromycin
+Pneumonia,doxycycline
+Pneumonia,amoxicillin
+Pneumonia,ciprofloxacin
+Pneumonia,clindamycin
+Pneumonia,cefdinir
+Pneumonia,amoxicillin / clavulanate
+Pneumonia,sulfamethoxazole / trimethoprim
+Pneumonia,cefotaxime
+Pneumonia,metronidazole
+Pneumonia,moxifloxacin
+Pneumonia,cefuroxime
+Rheumatoid Arthritis,methotrexate
+Rheumatoid Arthritis,prednisone
+Rheumatoid Arthritis,meloxicam
+Rheumatoid Arthritis,hydroxychloroquine
+Rheumatoid Arthritis,sulfasalazine
+Rheumatoid Arthritis,leflunomide
+Rheumatoid Arthritis,diclofenac
+Rheumatoid Arthritis,naproxen
+Rheumatoid Arthritis,celecoxib
+Rheumatoid Arthritis,acetaminophen / hydrocodone
+Rheumatoid Arthritis,ibuprofen
+Osteoarthritis,meloxicam
+Osteoarthritis,diclofenac
+Osteoarthritis,naproxen
+Osteoarthritis,ibuprofen
+Osteoarthritis,celecoxib
+Osteoarthritis,chondroitin / glucosamine
+Osteoarthritis,diclofenac
+Osteoarthritis,etodolac
+Osteoarthritis,prednisone
+Osteoarthritis,aspirin
+Osteoarthritis,nabumetone
+Osteoarthritis,duloxetine
+Reiter's Syndrome,adalimumab
+Gastroenteritis,ondansetron
+Gastroenteritis,doxycycline
+Gastroenteritis,ceftriaxone
+Gastroenteritis,ampicillin
+Gastroenteritis,rotavirus vaccine
+"Tuberculosis, Active",isoniazid / pyrazinamide / rifampin
+"Tuberculosis, Active",ethambutol
+"Tuberculosis, Active",isoniazid
+"Tuberculosis, Active",rifampin
+"Tuberculosis, Active",pyrazinamide
+"Tuberculosis, Active",isoniazid / rifampin
+"Tuberculosis, Active",levofloxacin
+"Tuberculosis, Active",moxifloxacin
+"Tuberculosis, Active",ciprofloxacin
+"Tuberculosis, Active",streptomycin
+"Tuberculosis, Active",amikacin
+"Tuberculosis, Extrapulmonary",prednisone
+"Tuberculosis, Extrapulmonary",cycloserine
+"Tuberculosis, Extrapulmonary",prednisone
+"Tuberculosis, Extrapulmonary",cycloserine
+"Tuberculosis, HIV Positive",rifabutin
+"Tuberculosis, Latent",isoniazid
+"Tuberculosis, Latent",rifampin
+"Tuberculosis, Latent",pyrazinamide
+"Tuberculosis, Latent",rifapentine
+"Tuberculosis, Prophylaxis",isoniazid
+"Tuberculosis, Prophylaxis",rifampin
+"Tuberculosis, Prophylaxis",rifabutin
+"Tuberculosis, Prophylaxis",bcg
+"Tuberculosis, Prophylaxis",bcg vaccine
+"Tuberculosis, Resistant",bedaquiline
+"Tuberculosis, Resistant",aminosalicylic acid
+"Tuberculosis, Resistant",pretomanid
+Heart Attack,Aspirin + Clopidogrel
+Heart Attack,Thrombolytics (for acute cases)
+Heart Attack,Beta-blockers (Metoprolol)
+Hepatitis D,Interferon-alpha therapy
+Hepatitis D,Liver transplant (for end-stage cases)
+Dengue,"Supportive care (IV fluids, Paracetamol)"
+Dengue,Avoid NSAIDs (increases bleeding risk)
+Hepatitis E,"Supportive care (hydration, rest)"
+Hepatitis E,Avoid alcohol & hepatotoxic drugs
+Jaundice,Phototherapy
+Jaundice,Treat underlying cause
+Alcoholic Hepatitis,Abstinence from alcohol
+Alcoholic Hepatitis,Corticosteroids (Prednisolone)
+Alcoholic Hepatitis,Nutritional support
+Bronchial Asthma,"Inhaled corticosteroids (Budesonide, Fluticasone)"
+Bronchial Asthma,"Short-acting bronchodilators (Salbutamol, Albuterol"
+Bronchial Asthma,Montelukast (for long-term control)
+Paralysis (Brain Hemorrhage),Supportive care
+Paralysis (Brain Hemorrhage),Physiotherapy & Rehabilitation
+Paralysis (Brain Hemorrhage),Aspirin or Clopidogrel
+Varicose Veins,Compression stockings
+Varicose Veins,Sclerotherapy
+Varicose Veins,Exercise & weight management
+Cervical Spondylosis,"NSAIDs (Ibuprofen, Naproxen)"
+Cervical Spondylosis,Physiotherapy
+Cervical Spondylosis,"Muscle relaxants (Cyclobenzaprine, Baclofen)"
+Common Cold,"Paracetamol, Antihistamines"
+Common Cold,Hydration & rest
+Common Cold,Zinc & Vitamin C supplementation
+Acne,"Oral Antibiotics (Doxycycline, Minocycline for severe cases"
+Acne,Benzoyl Peroxide
+Acne,"Topical Retinoids (Tretinoin, Adapalene)"
+Chronic Cholestasis,"Bile Acid Sequestrants (e.g., Cholestyramine)"
+Chronic Cholestasis,"Vitamin Supplements (A, D, E, K)"
+Chronic Cholestasis,Ursodeoxycholic Acid (UDCA)
+Drug Reaction,"Antihistamines (e.g., Loratadine, Cetirizine)"
+Drug Reaction,"Corticosteroids (e.g., Prednisone, Hydrocortisone"
+Drug Reaction,Epinephrine (for severe allergic reactions/anaphylaxis)
+Kwashiorkor,Oral Rehydration Solution (ORS)
+Kwashiorkor,"Therapeutic Milk (F75, F100)"
+Kwashiorkor,"Antibiotics: Amoxicillin, Gentamicin"
+Kwashiorkor,Multivitamin Supplement (including vitamin A and zinc)
+Trachoma,"Azithromycin (1g single dose for adults, 20mg/kg for children)"
+Trachoma,Tetracycline eye ointment (1% twice daily for 6 weeks)
+Trachoma,Surgical Intervention: For trichiasis or scarring
+Warts,Salicylic Acid (topical)
+Warts,Cryotherapy (Liquid nitrogen)
+Warts,Imiquimod (for genital warts)
+Warts,Surgical Removal or Laser Therapy (for persistent warts)
+Warts,Topical Interferon (for severe or resistant cases)
+Vitiligo,"Topical Corticosteroids (Hydrocortisone, Betamethasone)"
+Vitiligo,Topical Calcineurin Inhibitors (Tacrolimus)
+Vitiligo,Narrow-Band UVB Phototherapy
